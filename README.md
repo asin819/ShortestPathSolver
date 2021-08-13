@@ -1,4 +1,8 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=4787821&assignment_repo_type=AssignmentRepo)
-# Assignment 4
+Using Dijsktra’s shortest path algorithm, DFS and BFS searching techniques in Java to compute the shortest path between two points in a graph, while having restrictions of using no traditional data structures and testing using JUnit
 
-You will find the instructions to complete this assignment in Canvas. 
+
+The main files are located in src\main while the JUnit test cases are in src\test.
+To run the program at the terminal, the main is located in GraphControl.java which is under src\main.
+All the data for the graph you wish to work on should be in the folder \testcases.
+
+An example_input and example_output have also been provided. The example_output also shows a working of the program
